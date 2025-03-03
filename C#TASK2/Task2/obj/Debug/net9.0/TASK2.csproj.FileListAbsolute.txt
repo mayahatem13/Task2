@@ -1,0 +1,14 @@
+f:\Study\GDG\C#TASK2\TASK2\obj\Debug\net9.0\TASK2.GeneratedMSBuildEditorConfig.editorconfig
+f:\Study\GDG\C#TASK2\TASK2\obj\Debug\net9.0\TASK2.AssemblyInfoInputs.cache
+f:\Study\GDG\C#TASK2\TASK2\obj\Debug\net9.0\TASK2.AssemblyInfo.cs
+f:\Study\GDG\C#TASK2\TASK2\obj\Debug\net9.0\TASK2.csproj.CoreCompileInputs.cache
+f:\Study\GDG\C#TASK2\Task2\bin\Debug\net9.0\Task2.exe
+f:\Study\GDG\C#TASK2\Task2\bin\Debug\net9.0\Task2.deps.json
+f:\Study\GDG\C#TASK2\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+f:\Study\GDG\C#TASK2\Task2\bin\Debug\net9.0\Task2.dll
+f:\Study\GDG\C#TASK2\Task2\bin\Debug\net9.0\Task2.pdb
+f:\Study\GDG\C#TASK2\Task2\obj\Debug\net9.0\Task2.dll
+f:\Study\GDG\C#TASK2\Task2\obj\Debug\net9.0\refint\Task2.dll
+f:\Study\GDG\C#TASK2\Task2\obj\Debug\net9.0\Task2.pdb
+f:\Study\GDG\C#TASK2\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+f:\Study\GDG\C#TASK2\Task2\obj\Debug\net9.0\ref\Task2.dll
